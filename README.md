@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Assylzhan
-- A Research Assistant to one of the Greatest Researchers of the World in Fuzzy Sets and Logic - Shamoi Pakizar
+- A PhD student in KBTU supervised by Damir Yeleussizov
 - [Google Scholar](https://scholar.google.com/citations?user=QzG2OqMAAAAJ&hl=en)
 - 📫 How to reach me a.izbasar@kbtu.kz
 
