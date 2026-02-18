@@ -1,6 +1,6 @@
 👋 Hi, I’m Assylzhan.
-- Senior-lecturer at KBTU. Disciplines: A&DS, OOP, Reinforcement Learning
-- A PhD student in KBTU supervised by Damir Yeleussizov
+- Senior Lecturer in SITE at KBTU. Disciplines: A&DS, OOP, Reinforcement Learning
+- A PhD student in Computer Science at KBTU, supervised by Damir Yeleussizov
 - [Google Scholar](https://scholar.google.com/citations?user=QzG2OqMAAAAJ&hl=en)
 - 📫 How to reach me a.izbasar@kbtu.kz
 
